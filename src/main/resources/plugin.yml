@@ -1,0 +1,5 @@
+name: BookBanDisabler
+main: me.blvckbytes.bookbandisabler.BookBanDisabler
+version: 0.1
+author: BlvckBytes
+api-version: 1.13
